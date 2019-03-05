@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD626
+D Low Cost, Single-Supply
+K Differential Amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ad626.pdf
+$ENDCMP
+#
 $CMP AD628
 D High Common-Mode Voltage, Programmable Gain Difference Amplifier, +/-120V, Gain = 0.1 to 100, SOIC-8/MSOP-8
 K difference amplifier
